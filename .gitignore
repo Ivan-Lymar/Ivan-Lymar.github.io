@@ -1,0 +1,4 @@
+*.lock
+.idea
+.jekyll-cache
+_site
