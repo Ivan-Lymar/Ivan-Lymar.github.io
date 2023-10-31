@@ -1,1 +1,0 @@
-# Ivan-Lymar.github.io
