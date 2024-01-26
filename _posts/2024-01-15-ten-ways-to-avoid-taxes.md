@@ -1,6 +1,8 @@
 ---
 layout: page
 title:  "Top 10 ways to avoid taxes, Quann Mark"
+rating: 3
+cover: ten-ways-to-avoid-taxes
 permalink: /books/2
 ---
 
@@ -21,7 +23,9 @@ A standout feature is the book's practical insights into reducing taxes during s
 such as selling a home or managing rental properties. These real-world scenarios add a tangible dimension to the book,
 making it not just an informative read but a guide that readers can apply to their unique financial situations.
 
+<hr>
+
 If I were to put this book in one paragraph, it would be something like - "Taxes take significant portion of our income,
 and it's completely fine to try to reduce taxation (obviously legally). There are numerous ways how it can be achieved:
 ROTH IRA, IUL, long term capital gain, "tricks" while renting/selling real estate. Do not hesitate to ask help from
-CPAs, because it could save you a lot of money".
+CPAs, because it could save you a lot of money."

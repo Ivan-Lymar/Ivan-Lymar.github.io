@@ -2,6 +2,8 @@
 layout: page
 title:  "Get me to zero, Mark J. Orr"
 permalink: /books/3
+cover: get-me-to-zero
+rating: 5
 ---
 This book proved to be a transformative read for me, opening my eyes to innovative strategies
 for achieving a tax-free retirement. The author delves into crucial topics, including the distinctions
@@ -16,6 +18,8 @@ the author empowers readers to make informed decisions that can significantly im
 Whether you are approaching retirement or in the early stages of your career, the wisdom contained in these pages is a crucial
 resource for anyone seeking to navigate the complexities of financial planning. This book stands as a timeless guide,
 prompting readers to proactively consider and implement strategies that will pave the way for a tax-efficient and secure retirement.
+
+<hr>
 
 If I were to put this book in one paragraph, it would be something like - "Plan your retirement. Because of the trillions
 of national debt current tax rate and social security is not guaranteed. Compared to historical data, current tax rate is low.

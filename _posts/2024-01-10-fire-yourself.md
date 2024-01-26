@@ -1,6 +1,8 @@
 ---
 layout: page
 title:  "Fire yourself, Bronson Hill"
+rating: 3
+cover: fire-yourself
 permalink: /books/1
 ---
 
@@ -18,6 +20,8 @@ might be impractical for everyone. However, the book serves as a valuable resour
 of non-traditional investments, offering practical advice on becoming an active investor, self-convincing, goal-setting, networking
 through meetups, and engaging professionals to optimize tax strategies. In summary, this book provides a roadmap for those aspiring
 to achieve financial independence by venturing into unconventional yet rewarding investment avenues.
+
+<hr>
 
 If I were to put this book in one paragraph, it would be something like - "If you want to be financially free, you must start investing. Wall Street
 proposition is not stable and has a lot of disadvantages, so we have to use some non-traditional investments, e.g. real estate. Real estate itself is not ideal

@@ -2,6 +2,8 @@
 layout: page
 title:  "Social security income planning, Mark J. Orr"
 permalink: /books/4
+cover: social-security-income-planning
+rating: 5
 ---
 Mark J. Orr once again delivers a standout book, this time providing a comprehensive exploration
 of the intricate landscape of Social Security. From the nuanced funding mechanisms to the calculations
@@ -22,9 +24,11 @@ Social Security benefits for a more financially secure future. Orr's expertise s
 this book a must-read for anyone seeking to demystify the complexities of Social Security and make
 informed decisions about their financial future.
 
+<hr>
+
 If I were to put this book in one paragraph, it would be something like - "Figure out how your social security
 is taxed and calculated to avoid surprises. Because of increasing life longevity try to take your social security
 as late as you can, if you live long enough it will give you more money. There are some strategies you and your
 spouse can apply to maximize your return as a family(62-70). Think about Long Time Care (LTC). There are ways to minimize
 your taxes when you are retired. Social security is not guaranteed and there might be a situation where you will
-have to found your retirement on your own, think about ways of doing it (IUL, IRA)".
+have to found your retirement on your own, think about ways of doing it (IUL, IRA)."
