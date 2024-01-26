@@ -3,10 +3,24 @@ layout: page
 title:  "Social security income planning, Mark J. Orr"
 permalink: /books/4
 ---
-Another great book from Mark J. Orr. Explains how social security is funded, calculated and taxed.
-Explains consequences of taking your social security benefit before full retirement age and after,
-spousal and survivor benefits, basics of medicare. Provides some strategies on how to maximize your
-income from social security as a family and individual.
+Mark J. Orr once again delivers a standout book, this time providing a comprehensive exploration
+of the intricate landscape of Social Security. From the nuanced funding mechanisms to the calculations
+and taxation nuances, Orr leaves no stone unturned. One of the book's strengths lies in its thorough
+examination of the consequences associated with timing in Social Security benefit withdrawals—whether
+before reaching full retirement age or after.
+
+In addition to delving into the complexities of Social Security, Orr skillfully unpacks the intricacies
+of spousal and survivor benefits, laying out a roadmap for readers to navigate these often-overlooked aspects.
+The inclusion of fundamental insights into Medicare adds further depth to the reader's understanding of
+the broader retirement landscape.
+
+What sets this book apart is its practical approach to financial planning. Orr doesn't just inform;
+he empowers. The strategies provided for maximizing Social Security income—both as a family unit and
+as an individual—are not only insightful but also actionable. Whether you're approaching retirement or
+helping a loved one plan for their future, this book serves as an indispensable guide to optimizing
+Social Security benefits for a more financially secure future. Orr's expertise shines through, making 
+this book a must-read for anyone seeking to demystify the complexities of Social Security and make
+informed decisions about their financial future.
 
 If I were to put this book in one paragraph, it would be something like - "Figure out how your social security
 is taxed and calculated to avoid surprises. Because of increasing life longevity try to take your social security
