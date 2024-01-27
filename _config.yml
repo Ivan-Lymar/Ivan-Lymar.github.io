@@ -29,3 +29,7 @@ theme: minima
 
 header_pages:
   - pages/books.md
+  - pages/cv.md
+
+seo:
+  name: "ASDASD"
