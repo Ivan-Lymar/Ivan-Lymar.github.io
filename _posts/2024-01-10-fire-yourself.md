@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Fire yourself, Bronson Hill"
+title:  "Fire yourself -  Bronson Hill"
 rating: 3
 cover: fire-yourself
 permalink: /books/1

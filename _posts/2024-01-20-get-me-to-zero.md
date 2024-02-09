@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Get me to zero, Mark J. Orr"
+title:  "Get me to zero -  Mark J. Orr"
 permalink: /books/3
 cover: get-me-to-zero
 rating: 5

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Social security income planning, Mark J. Orr"
+title:  "Social security income planning -  Mark J. Orr"
 permalink: /books/4
 cover: social-security-income-planning
 rating: 5
