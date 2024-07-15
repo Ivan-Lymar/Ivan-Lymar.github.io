@@ -1,6 +1,8 @@
 ---
 layout: page
+resource: true
 title:  "Fire yourself -  Bronson Hill"
+category: Investing / Personal finance
 rating: 3
 cover: fire-yourself
 permalink: /books/1

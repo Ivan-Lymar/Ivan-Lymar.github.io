@@ -1,6 +1,8 @@
 ---
 layout: page
+resource: true
 title:  "Functional Programming in Java - Pierre-Yves Saumont"
+category: Software Engineering
 rating: 4
 cover: functional-programming-java
 permalink: /books/12

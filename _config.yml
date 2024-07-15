@@ -30,3 +30,5 @@ theme: minima
 header_pages:
   - pages/books.md
   - pages/cv.md
+
+#categories: [Investingfinance, Education, Motivation, SoftwarEngineering]

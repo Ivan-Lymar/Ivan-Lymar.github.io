@@ -1,6 +1,8 @@
 ---
 layout: page
+resource: true
 title:  "Speed reading -  Kam Knight"
+category: Education
 rating: 4
 cover: speed-reading
 permalink: /books/6
