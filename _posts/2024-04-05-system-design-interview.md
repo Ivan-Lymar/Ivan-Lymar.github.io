@@ -1,8 +1,6 @@
 ---
 layout: page
-resource: true
 title:  "System Design Interview - Alex Xu"
-category: Software Engineering
 rating: 5
 cover: system-design
 permalink: /books/10

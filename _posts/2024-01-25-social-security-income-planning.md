@@ -1,8 +1,6 @@
 ---
 layout: page
-resource: true
 title:  "Social security income planning -  Mark J. Orr"
-category: Investing / Personal finance
 permalink: /books/4
 cover: social-security-income-planning
 rating: 5

@@ -1,8 +1,6 @@
 ---
 layout: page
-resource: true
 title:  "Master your morning -  Christopher Hall"
-category: Motivation
 rating: 3
 cover: master-your-morning
 permalink: /books/5

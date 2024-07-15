@@ -1,8 +1,6 @@
 ---
 layout: page
-resource: true
 title:  "Get me to zero -  Mark J. Orr"
-category: Investing / Personal finance
 permalink: /books/3
 cover: get-me-to-zero
 rating: 5
