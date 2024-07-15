@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "The Psychology of Money: Timeless lessons on wealth, greed, and happiness - Morgan Housel"
+category: Finance
 rating: 5
 cover: psychology-of-money
 permalink: /books/7

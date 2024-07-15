@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Top 10 ways to avoid taxes -  Quann Mark"
+category: Finance
 rating: 3
 cover: ten-ways-to-avoid-taxes
 permalink: /books/2

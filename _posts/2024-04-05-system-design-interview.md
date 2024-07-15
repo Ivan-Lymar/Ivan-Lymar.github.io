@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "System Design Interview - Alex Xu"
+category: Software
 rating: 5
 cover: system-design
 permalink: /books/10

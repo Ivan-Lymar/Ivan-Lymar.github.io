@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "The Bitcoin Standard: The Decentralized Alternative to Central Banking - Saifedean Ammous"
+category: Finance
 rating: 4
 cover: the-bitcoin-standard
 permalink: /books/8

@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "The simple path to wealth - JL Collins"
+category: Finance
 rating: 4
 cover: simple-path-to-wealth
 permalink: /books/13

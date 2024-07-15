@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Fire yourself -  Bronson Hill"
+category: Finance
 rating: 3
 cover: fire-yourself
 permalink: /books/1

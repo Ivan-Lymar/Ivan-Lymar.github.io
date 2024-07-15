@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  "The Total Money Makeover -  Dave Ramsey"
+title:  "The Total Money Makeover -  Dave Ramsey".
+category: Finance
 rating: 4
 cover: total-money-makeover
 permalink: /books/11
